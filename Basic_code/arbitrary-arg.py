@@ -6,5 +6,4 @@ def greet(*names):
     for name in names:
         print("Hello", name)
 
-
 greet("Monica", "Luke", "Steve", "John")
