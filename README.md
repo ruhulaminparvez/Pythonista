@@ -51,11 +51,19 @@ _Code written for Python 3.x is guaranteed to work in all future versions._
 _Both Python Version 2.x and 3.x are used currently._
 _It isn't hard to change from one version to another._
 
+__Software For Run Codes__
+
+1. **Atom/Atom IDE**
+2. **Spyder**
+3. **Jupyter**
+4. **Eclipse PyDev PlugIn**
+5. **Pycharm**
+
 ## Datatypes 🦗
 
 __In Python Datatypes Mainly Organized Into Five Types:👇__
 
-1. **None Type:** _an object does not contain any value_
+1. **None Type:** an object does not contain any value
 2. **Numeric Type:** _int,float,complex_
 3. **Sequences:** _str,bytes,bytearray,list,tuple,range_
 4. **Sets:** _Does not allow duplicates_
