@@ -42,6 +42,8 @@ Monty Python's or Team Python's) A.K.A pythons.
 > Guido van rossum wanted to create his first programmimg  language more easy(people can fun with codes)
 and same time very powerful.
 
+![guido-van-rossum](https://tinyurl.com/y79bjxrn)
+
 __Versions Of Python__
 
 _The three major versions of Python are 1.x, 2.x and 3.x. These are subdivided into minor versions, such as 2.7 and 3.3._
