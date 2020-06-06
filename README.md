@@ -35,3 +35,17 @@ __Welcome to Python!__
 
 _Python is a high-level programming language, with applications in numerous areas, including web programming, scripting, scientific computing, and artificial intelligence._
 _It is very popular and used by organizations such as Google, NASA, the CIA, and Disney._
+
+> It was created by Guido van Rossum in 1991 and further developed by the Python Software Foundation.
+> Python was named for Monty Python's Flying Circus(British surreal sketch series created by comedy group
+Monty Python's or Team Python's) A.K.A pythons.
+> Guido van rossum wanted to create his first programmimg  language more easy(people can fun with codes)
+and same time very powerful.
+
+__Versions Of Pythons__
+
+_The three major versions of Python are 1.x, 2.x and 3.x. These are subdivided into minor versions, such as 2.7 and 3.3._
+_Code written for Python 3.x is guaranteed to work in all future versions._
+_Both Python Version 2.x and 3.x are used currently._
+_It isn't hard to change from one version to another._
+
