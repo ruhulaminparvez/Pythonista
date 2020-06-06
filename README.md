@@ -1,9 +1,9 @@
 # pythonista-(ml-world)
 this repo i'm gonna use to depot my codes 🗽🚀
 
-##🚀🐍 My Learning Pathways Of Python 🐍🚀
+## My Learning Pathways Of Python 🐍🚀
 
-### Topics ✔
+ ### Topics ✔
 
 * Introduction
 * Datatypes
