@@ -5,29 +5,29 @@ this repo i'm gonna use to depot my codes 🗽🚀
 
  ## Topics ✔
 
-* Introduction
-* Datatypes
-* Sequence Types
-* Operator and Operand
-* Input and Output functions
-* More Programs
-* Flow Control Statements
-* Command line arguments
-* Functions
-* Lamdas
-* List Emprehensions
-* Object Oriented Programming
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Abstraction
-* Exception Handling Assertions and Logging
-* Files
-* Regular Expressions
-* Date and Time
-* Threads
-* Networking
-* Database Operations
+* _Introduction_
+* _Datatypes_
+* _Sequence Types_
+* _Operator and Operand_
+* _Input and Output functions_
+* _More Programs_
+* _Flow Control Statements_
+* _Command line arguments_
+* _Functions_
+* _Lamdas_
+* _List Emprehensions_
+* _Object Oriented Programming_
+* _Encapsulation_
+* _Inheritance_
+* _Polymorphism_
+* _Abstraction_
+* _Exception Handling Assertions and Logging_
+* _Files_
+* _Regular Expressions_
+* _Date and Time_
+* _Threads_
+* _Networking_
+* _Database Operations_
 
 ## Introduction 🐸
 
@@ -51,7 +51,7 @@ _Code written for Python 3.x is guaranteed to work in all future versions._
 _Both Python Version 2.x and 3.x are used currently._
 _It isn't hard to change from one version to another._
 
-__Software For Run Codes__
+__Software For Run Codes:__
 
 1. **Atom/Atom IDE**
 2. **Spyder**
@@ -63,11 +63,11 @@ __Software For Run Codes__
 
 __In Python Datatypes Mainly Organized Into Five Types:👇__
 
-1. **None Type:** an object does not contain any value
-2. **Numeric Type:** _int,float,complex_
-3. **Sequences:** _str,bytes,bytearray,list,tuple,range_
-4. **Sets:** _Does not allow duplicates_
-5. **Mapping:** _which can use map and reduce_
+1. **_None Type:_** _an object does not contain any value_
+2. **_Numeric Type:_** _int,float,complex_
+3. **_Sequences:_** _str,bytes,bytearray,list,tuple,range_
+4. **_Sets:_** _Does not allow duplicates_
+5. **_Mapping:_** _which can use map and reduce_
 
 
 
