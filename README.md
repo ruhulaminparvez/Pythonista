@@ -1,9 +1,9 @@
 # pythonista-(ml-world)
 this repo i'm gonna use to depot my codes 🗽🚀
 
-## My Learning Pathways Of Python 🐍🚀
+# My Learning Pathways Of Python 🐍🚀
 
- ### Topics ✔
+ ## Topics ✔
 
 * Introduction
 * Datatypes
@@ -50,4 +50,16 @@ _The three major versions of Python are 1.x, 2.x and 3.x. These are subdivided i
 _Code written for Python 3.x is guaranteed to work in all future versions._
 _Both Python Version 2.x and 3.x are used currently._
 _It isn't hard to change from one version to another._
+
+## Datatypes 🦗
+
+__In Python Datatypes Mainly Organized Into Five Types__
+
+_1. None Type: an object does not contain any value_
+_2. Numeric Type: int,float,complex_
+_3. Sequences : str,bytes,bytearray,list,tuple,range_
+_4. Sets : Does not allow duplicates_
+_5. Mapping : which can use map and reduce_
+
+
 
