@@ -28,3 +28,10 @@ this repo i'm gonna use to depot my codes 🗽🚀
 * Threads
 * Networking
 * Database Operations
+
+## Introduction 🐸
+
+__Welcome to Python!__
+
+_Python is a high-level programming language, with applications in numerous areas, including web programming, scripting, scientific computing, and artificial intelligence._
+_It is very popular and used by organizations such as Google, NASA, the CIA, and Disney._
