@@ -55,11 +55,11 @@ _It isn't hard to change from one version to another._
 
 __In Python Datatypes Mainly Organized Into Five Types__
 
-_1. None Type: an object does not contain any value_
-_2. Numeric Type: int,float,complex_
-_3. Sequences : str,bytes,bytearray,list,tuple,range_
-_4. Sets : Does not allow duplicates_
-_5. Mapping : which can use map and reduce_
+1. _None Type: an object does not contain any value_
+2. Numeric Type: int,float,complex
+3. Sequences : str,bytes,bytearray,list,tuple,range
+4. Sets : Does not allow duplicates
+5. Mapping : which can use map and reduce
 
 
 
