@@ -1,9 +1,9 @@
 # pythonista-(ml-world)
 this repo i'm gonna use to depot my codes 🗽🚀
 
-# My Learning Pathways Of Python 🐍🚀
+# **_My Learning Pathways Of Python_** 🐍🚀
 
- ## Topics ✔
+ ## **_Topics_** ✔
 
 * _Introduction_
 * _Datatypes_
@@ -29,9 +29,9 @@ this repo i'm gonna use to depot my codes 🗽🚀
 * _Networking_
 * _Database Operations_
 
-## Introduction 🐸
+## **_Introduction_** 🐸
 
-__Welcome to Python!__
+**_Welcome to Python!_**
 
 _Python is a high-level programming language, with applications in numerous areas, including web programming, scripting, scientific computing, and artificial intelligence._
 _It is very popular and used by organizations such as Google, NASA, the CIA, and Disney._
@@ -44,24 +44,24 @@ and same time very powerful.
 
 ![guido-van-rossum](https://tinyurl.com/y79bjxrn)
 
-__Versions Of Python__
+**_Versions Of Python_**
 
 _The three major versions of Python are 1.x, 2.x and 3.x. These are subdivided into minor versions, such as 2.7 and 3.3._
 _Code written for Python 3.x is guaranteed to work in all future versions._
 _Both Python Version 2.x and 3.x are used currently._
 _It isn't hard to change from one version to another._
 
-__Software For Run Codes:__
+**_Software For Run Codes:_**
 
-1. **Atom/Atom IDE**
-2. **Spyder**
-3. **Jupyter**
-4. **Eclipse PyDev PlugIn**
-5. **Pycharm**
+1. **_Atom/Atom IDE_**
+2. **_Spyder_**
+3. **_Jupyter_**
+4. **_Eclipse PyDev PlugIn_**
+5. **_Pycharm_**
 
-## Datatypes 🦗
+## **_Datatypes_** 🦗
 
-__In Python Datatypes Mainly Organized Into Five Types:👇__
+**_In Python Datatypes Mainly Organized Into Five Types:👇_**
 
 1. **_None Type:_** _an object does not contain any value_
 2. **_Numeric Type:_** _int,float,complex_
