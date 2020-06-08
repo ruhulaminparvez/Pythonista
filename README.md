@@ -59,6 +59,7 @@ _It isn't hard to change from one version to another._
 4. **_Eclipse PyDev PlugIn_**
 5. **_Pycharm_**
 6. **_Sublime Text_**
+7. **_Visual Studio Code_**
 
 ## **_Datatypes_** 🦗
 
