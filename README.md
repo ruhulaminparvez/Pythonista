@@ -53,13 +53,13 @@ _It isn't hard to change from one version to another._
 
 **_Software For Run Codes:_**
 
-1. **_Atom/Atom IDE_**
+1. **_Eclipse PyDev PlugIn_**
 2. **_Spyder_**
-3. **_Jupyter_**
-4. **_Eclipse PyDev PlugIn_**
+3. **_Visual Studio Code_**
+4. **_Atom/Atom IDE_**
 5. **_Pycharm_**
 6. **_Sublime Text_**
-7. **_Visual Studio Code_**
+7. **_Jupyter_**
 
 ## **_Datatypes_** 🦗
 
