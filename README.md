@@ -51,7 +51,7 @@ _Code written for Python 3.x is guaranteed to work in all future versions._
 _Both Python Version 2.x and 3.x are used currently._
 _It isn't hard to change from one version to another._
 
-**_Software For Run Codes:🚁_**
+**_Software/Editor To Run Codes:🛩_**
 
 1. **_Eclipse PyDev PlugIn_**
 2. **_Spyder_**
