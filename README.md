@@ -58,6 +58,7 @@ _It isn't hard to change from one version to another._
 3. **_Jupyter_**
 4. **_Eclipse PyDev PlugIn_**
 5. **_Pycharm_**
+6. **_Sublime Text_**
 
 ## **_Datatypes_** 🦗
 
