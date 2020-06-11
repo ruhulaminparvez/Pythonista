@@ -65,12 +65,12 @@ _It isn't hard to change from one version to another._
 
 _Data type tells what type of data a variable can carry._
 _We create a variable for example,_
-           **a = 10**
+           **_a = 10_**
 _That means, a can carry numeric or integer type data._
    
 _Similarly, if we assign **f = 10.23** that means, f can hold onto floating point or decimal type of data._
 
- **s = "Python is a powerful programming language"**
+ **_s = "Python is a powerful programming language_"**
 _And If we assigned set of characters within double quotes to a variable called S That means, s is of type string that is it can hold a sequences of  characters or a string type._ 
 
 **_In Python Datatypes Mainly Organized Into Five Types:👇_**
