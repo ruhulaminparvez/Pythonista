@@ -31,7 +31,7 @@ this repo i'm gonna use to depot my codes 🗽🚀
 
 ## **_Introduction_** 🐸
 
-**_Welcome to Python!_**
+**_Welcome to Python!🪂_**
 
 _Python is a high-level programming language, with applications in numerous areas, including web programming, scripting, scientific computing, and artificial intelligence._
 _It is very popular and used by organizations such as Google, NASA, the CIA, and Disney._
@@ -44,7 +44,7 @@ and same time very powerful._
 
 ![guido-van-rossum](https://tinyurl.com/y79bjxrn)
 
-**_Versions Of Python_**
+**_Versions Of Python🕷_**
 
 _The three major versions of Python are 1.x, 2.x and 3.x. These are subdivided into minor versions, such as 2.7 and 3.3._
 _Code written for Python 3.x is guaranteed to work in all future versions._
