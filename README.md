@@ -36,7 +36,7 @@ this repo i'm gonna use to depot my codes 🗽🚀
 _Python is a high-level programming language, with applications in numerous areas, including web programming, scripting, scientific computing, and artificial intelligence._
 _It is very popular and used by organizations such as Google, NASA, the CIA, and Disney._
 
-> _Python was created by **👉 Guido van Rossum :octocat:** in 1991 and further developed by the Python Software Foundation._
+> _Python was created by **👉 Guido Van Rossum:octocat:** in 1991 and further developed by the Python Software Foundation._
 > _Python was named for Monty Python's Flying Circus(British surreal sketch series created by comedy group
 Monty Python's or Team Python's) A.K.A pythons._
 > _Guido van rossum wanted to create his first programmimg  language more easy(people can fun with codes)
