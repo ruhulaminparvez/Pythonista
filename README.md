@@ -1,5 +1,5 @@
 # pythonista-(ml-world)
-***this repo i'm gonna use to depot my codes 🗽🚀***
+***This repo I'm gonna use to depot my codes 🗽🚀***
 
 # **_My Learning Pathways Of Python_** 🐍🚀
 
