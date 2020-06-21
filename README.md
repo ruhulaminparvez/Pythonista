@@ -82,5 +82,5 @@ _And If we assigned set of characters within double quotes to a variable called 
 4. **_Sets:_** _Does not allow duplicates_
 5. **_Mapping:_** _which can use map and reduce_
 
-**_In my Pythonista repo, I've uploaded a folder name to " learn python :snake:", in this folder, I'm gonna upload all topics based on basic codes for understanding the concept of the topic which I wanna learn.☺🗽🚀_**
+**_In my Pythonista repo, I've uploaded a folder name to " learn python ":snake:, in this folder, I'm gonna upload all topics based on basic codes for understanding the concept of the topic which I wanna learn.☺🗽🚀_**
 
