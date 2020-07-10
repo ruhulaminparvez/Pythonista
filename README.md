@@ -5,7 +5,7 @@
 
  ## **_Topics_** ✔
 
-* Introduction
+* _Introduction_
 * _Datatypes_
 * _Sequence Types_
 * _Operator and Operand_
