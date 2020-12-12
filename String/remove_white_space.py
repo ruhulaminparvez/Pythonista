@@ -1,16 +1,14 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 12 11:10:17 2020
-
-@author: RUHUL AMIN PARVEZ
-"""
-
-test_str = str(input("Enter line of string: "))
-
+import re 
+  
+# initializing string  
+test_str = "GfG  is   good           website"
+  
+# printing original string  
 print("The original string is : " + test_str) 
-
-result = " ".join(test_str.split()) 
-
-# printing result 
-print("The strings after extra space removal : " + str(result)) 
-
+  
+# using re.sub() 
+# remove additional space from string  
+res = re.sub(' +', ' ', test_str) 
+  
+# printing result  
+print("The strings after extra space removal : " + str(res))
