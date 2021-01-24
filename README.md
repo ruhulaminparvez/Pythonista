@@ -1,5 +1,5 @@
 # Pythonista (Learning Python Programming Language)
-***This repo I'm gonna use to depot my codes 🗽🚀***
+***This repo I'm used to depot my code 🗽🚀***
 
 # **_My Learning Pathways Of Python_** 🐍🚀
 
