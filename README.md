@@ -41,8 +41,10 @@ _It is very popular and used by organizations such as Google, NASA, the CIA, and
 Monty Python's or Team Python's) A.K.A pythons._
 > _Guido van rossum wanted to create his first programmimg  language more easy(people can fun with codes)
 and same time very powerful._
-
-![guido-van-rossum](Images/guido-van-rossum.jpg) 
+ 
+<p align="center">
+  <img width="520" src="Images/guido-van-rossum.jpg">
+</p>
 
 **_Versions Of Python🕷_**
 
