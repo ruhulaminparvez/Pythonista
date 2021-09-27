@@ -42,8 +42,7 @@ Monty Python's or Team Python's) A.K.A pythons._
 > _Guido van rossum wanted to create his first programmimg  language more easy(people can fun with codes)
 and same time very powerful._
 
-![guido-van-rossum](Images/guido-van-Rossum.jpg)
-                                                 
+![guido-van-rossum](Images/guido-van-rossum.jpg) 
 
 **_Versions Of Python🕷_**
 
