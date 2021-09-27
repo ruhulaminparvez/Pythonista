@@ -43,7 +43,7 @@ Monty Python's or Team Python's) A.K.A pythons._
 and same time very powerful._
  
 <p align="center">
-  <img width="520" src="Images/guido-van-rossum.jpg">
+  <img width="820" src="Images/guido-van-rossum.jpg">
 </p>
 
 **_Versions Of Python🕷_**
