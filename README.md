@@ -42,7 +42,7 @@ Monty Python's or Team Python's) A.K.A pythons._
 > _Guido van rossum wanted to create his first programmimg  language more easy(people can fun with codes)
 and same time very powerful._
 
-![guido-van-rossum](https://tinyurl.com/y79bjxrn)
+![guido-van-rossum](Images/guido-van-Rossum.jpg)
                                                  
 
 **_Versions Of Python🕷_**
@@ -52,7 +52,7 @@ _Code written for Python 3.x is guaranteed to work in all future versions._
 _Both Python Version 2.x and 3.x are used currently._
 _It isn't hard to change from one version to another._
 
-**_Software/Editor To Run Codes:🛩_**
+**_Software/Editor/Interpreter/IDE To Run Codes:🛩_**
 
 1. **_Eclipse PyDev PlugIn_**
 2. **_Spyder_**
@@ -61,6 +61,11 @@ _It isn't hard to change from one version to another._
 5. **_Pycharm_**
 6. **_Sublime Text_**
 7. **_Jupyter_**
+
+**_Online Software/Editor/Interpreter/IDE To Run Codes:🛩_**
+
+1. **_Google Co-lab_**
+2. **_Replit.com_**
 
 ## **_Datatypes_** 🦗
 
@@ -82,4 +87,3 @@ _And If we assigned set of characters within double quotes to a variable called 
 4. **_Sets:_** _Does not allow duplicates_
 5. **_Mapping:_** _which can use map and reduce_
 
-**_In my Pythonista repo, I've uploaded a folder name to " learn python ":snake:, in this folder, I'm gonna upload all topics based on basic codes for understanding the concept of the topic which wanna need to learn.☺🗽🚀_**
